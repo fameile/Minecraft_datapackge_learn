@@ -1,0 +1,20 @@
+{   
+    "type":"crafting_shaped",
+    "pattern":[
+        "#  ",
+        "#d ",
+        "###"
+    ],
+    "key":{
+        "#":{
+            "item":"minecraft:acacia_planks"
+        },
+        "d":{
+            "item":"minecraft:oak_planks"
+        }
+    },
+    "result":{
+        "item":"minecraft:acacia_stairs",
+        "count":5
+    }
+}
