@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "SSS",
+        "S S",
+        "SRS"
+    ],
+    "key": {
+        "S":{
+            "tag":"for_more_easy:cobblestones"
+        },
+        "R":{
+            "item": "redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:dropper"
+    }
+}
