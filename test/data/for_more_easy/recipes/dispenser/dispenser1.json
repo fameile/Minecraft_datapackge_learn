@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " MS",
+        "MDS",
+        " MS"
+    ],
+    "key": {
+        "M":{
+            "item": "stick"
+        },
+        "S":{
+            "item": "string"
+        },
+        "D":{
+            "item": "dropper"
+        }
+    },
+    "result": {
+        "item": "minecraft:dispenser"
+    }
+}
