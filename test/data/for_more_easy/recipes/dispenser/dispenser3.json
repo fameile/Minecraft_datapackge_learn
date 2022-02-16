@@ -10,7 +10,7 @@
             "item": "bow"
         },
         "S":{
-            "tag":"for_more_easy:cobblestones"
+            "tag":"minecraft:stone_crafting_materials"
         },
         "R":{
             "item": "redstone"
